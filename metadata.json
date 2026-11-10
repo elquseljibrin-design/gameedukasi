@@ -1,0 +1,6 @@
+{
+  "name": "SUPER EDU ADVENTURE",
+  "description": "Game Petualangan Platformer Edukasi Informatika Fase D Kelas VIII SMP/MTs - Berpikir Komputasional & Pseudocode",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
